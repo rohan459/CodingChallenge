@@ -1,0 +1,11 @@
+$gray: #101010	;
+
+.header-container {
+    text-align: center;
+    padding: 10px 0;
+
+    .header-text {
+      margin-left: 10px;
+      color: $gray;
+  }
+}

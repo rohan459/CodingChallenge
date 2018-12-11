@@ -1,0 +1,23 @@
+@mixin inline {
+    display: inline-block;
+}
+
+.footer-container {
+    div.left {
+      float:left;
+    }
+    div.right {
+      float:right;
+    }
+    p {
+      @include inline;
+      padding-right: 20px;
+      font-weight: bold;
+    }
+    nav {
+      @include inline;
+    }
+    a {
+        font-weight: bold;
+    }
+}
