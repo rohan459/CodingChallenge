@@ -1,5 +1,5 @@
 {
-	"name": "codingchallengeTest",
+	"name": "codingchallenge",
 	"version": "1.0.0",
 	"description": "React project  with webpack bootstrap, sass, and media query",
 	"main": "index.js",
